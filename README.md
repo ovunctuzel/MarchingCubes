@@ -1,7 +1,5 @@
 # MarchingCubes
 Procedural terrain generation from scalar fields
-![Image1](ReadmeImg.png?raw=true "Title")
-
 
 ## Getting Started
 ![Image2](ReadmeImg2.png?raw=true "Title")
@@ -15,5 +13,8 @@ Procedural terrain generation from scalar fields
 - W, A, S, D to move around
 - C to toggle between top down and first person camera
 - G to enable gravity
+
+
+![Image1](ReadmeImg.png?raw=true "Title")
 
 
